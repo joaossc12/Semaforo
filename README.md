@@ -56,7 +56,7 @@ Este projeto implementa um **semáforo virtual** usando **FreeRTOS** em uma Rasp
 ---
 ## 📋 Estrutura do Código
 
-"""
+````
 ├── main.c
 ├── Semaforo.pio
 ├── lib/
@@ -64,4 +64,4 @@ Este projeto implementa um **semáforo virtual** usando **FreeRTOS** em uma Rasp
 │ └── font.h
 ├── FreeRTOSConfig.h
 └── README.md
-"""
+````
