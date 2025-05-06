@@ -21,3 +21,4 @@ Este projeto implementa um **semáforo virtual** usando **FreeRTOS** em uma Rasp
 ...
 
 ---
+## 📋 Estrutura do Código
